@@ -1,0 +1,7 @@
+.tickedTodo{
+    text-decoration: line-through;
+}
+
+.untickedTodo{
+    font-weight: bold;
+}
